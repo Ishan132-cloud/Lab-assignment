@@ -1,0 +1,3 @@
+whoami: command used for viewing the user name
+
+id: command is used for viewing all the groups the file belongs to
