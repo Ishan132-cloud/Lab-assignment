@@ -1,0 +1,6 @@
+Part 5:
+First i used the "man mkdir" command in coursera labs but it kept showin " No manual entry for mkdir".
+So i used the github codespaces to do this question. I ran the " man mkdir " command on github codespace.
+
+-p optionis a useful option as it allows us to create parent directories automatically if they do not
+already exist .

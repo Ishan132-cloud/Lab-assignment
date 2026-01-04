@@ -1,0 +1,4 @@
+Part 3:
+To create the file and write the specific string to it, i used the "echo" command with output redirection ">".
+Using this i was able to write the text in the file directly. At last i used "cat" command to check i it worked. As
+shown in the screenshot.

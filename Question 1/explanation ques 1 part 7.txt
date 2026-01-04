@@ -1,0 +1,4 @@
+Part 7:
+To search for the word "admin" and display only matching lines. First I created the file log.txt using
+the touch and vi command . Then wrote some random lines in the file which contain the word "admin". Then 
+using the command "grep "admin" log.txt", to display only matching lines.

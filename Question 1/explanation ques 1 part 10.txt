@@ -1,0 +1,8 @@
+Part 10
+Using the command "uptime" i got the uptime duration, number of user and load average.
+
+Uptime duration tells us how long the system has been running since the last boot.
+
+Number of users shows us how many users are currently logged in.
+
+Load average is the average system load time taken over the lat 1, 5 and 15min.
