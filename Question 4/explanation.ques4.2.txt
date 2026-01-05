@@ -1,0 +1,5 @@
+Part2:
+The ps command is used to display only a basic snapshot of processes running in the current shell session
+
+To list all the comprehensive, user-oriented list of all running processes on the system.
+ I used ps aux, which provides details like the Process ID (PID), CPU usage, and the user associated with the process. 

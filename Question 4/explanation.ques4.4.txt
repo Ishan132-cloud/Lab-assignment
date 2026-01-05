@@ -1,0 +1,5 @@
+Part4:
+To execute a command in the background, append an ampersand (&) to the end of the command (e.g., sleep 100 &). I verified it is running by using the ps command.
+
+I also used the ps aux command with the help of grep to pinpoint the exam process running, as ps aux would usually give a long list of processes.
+ So, using grep to specify which command we wanna check is a time efficient wa.y

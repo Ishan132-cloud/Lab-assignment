@@ -1,0 +1,4 @@
+Part3:
+To identify the process consuming the highest CPU, I used the top command.
+
+In this screenshot, it can be seen that the command /usr/bin/Xvnc was consuming the highest CPU usage.

@@ -1,0 +1,5 @@
+Part1:
+To display the time elapsed since the last boot, I used the top command, which displays real-time information about system activity.
+
+The uptime command in Linux systems shows how long the system has been running, the current time, the number of logged-in users, 
+and the system's load average over the last 1, 5, and 15 minutes.
