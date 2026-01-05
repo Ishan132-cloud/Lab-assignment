@@ -1,0 +1,4 @@
+Part7:
+ To estimate the disk space used by the home directory in a human-readable format (KB, MB, GB),
+ I used the du command with the -h option, and the -s option was used to provide a summary total.
+ "du -h" command will give a long, detailed list to scroll through, while using -sh gives the summary.

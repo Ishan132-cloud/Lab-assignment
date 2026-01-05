@@ -1,0 +1,5 @@
+Part2:
+I used the "ln" command to create the hard link.And I used ls command to check the if the hard link is
+created.
+
+Command: ln sample_data.txt sample_hard.txt

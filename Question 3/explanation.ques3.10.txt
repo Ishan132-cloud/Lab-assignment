@@ -1,0 +1,10 @@
+Part10:
+ The du and df commands are essential for monitoring storage:
+
+du -h --max-depth=1: Displays the disk usage of immediate subdirectories in a human-readable format.
+
+du -ch:Displays usage for all specified files/directories and includes a grand total at the end. 
+
+df -h: Shows the total, used, and available space on all mounted file systems.
+
+df -T: Displays the file system type (such as ext4 or XFS) alongside the usage data.

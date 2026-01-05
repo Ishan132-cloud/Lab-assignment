@@ -1,0 +1,4 @@
+Part1:
+To create a new file in the home directory and add text, I used the "touch" command followed by echo and
+output redirection (>). I used the "cat" command to check if the text has been successfully added in 
+the file.

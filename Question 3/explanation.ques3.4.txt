@@ -1,0 +1,2 @@
+Part4:
+To view the unique inode numbers associated with each file, I used the "ls" command with the -i option.

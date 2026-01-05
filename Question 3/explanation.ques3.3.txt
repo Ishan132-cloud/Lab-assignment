@@ -1,0 +1,2 @@
+Part3:
+To create a soft link, I used the command "ln" with the -s option as shown in the screenshot
