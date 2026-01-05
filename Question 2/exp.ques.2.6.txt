@@ -1,0 +1,5 @@
+Part6:
+The "mv" command is used for both moving and renaming files or directories. I used the mv command for changing
+ the directory names. I was in the directory that was being renamed, so I went back using cd .. and then used the "ls"
+ command to check if the name had been changed. The name was changed successfully. Then I used 
+"cd" with the directory name to go back inside the directory.

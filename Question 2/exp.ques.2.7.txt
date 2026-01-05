@@ -1,0 +1,2 @@
+Part 7:
+ I used "mkdir" to create the archive subdirectory. Then used "ls" command to check if it had been created.

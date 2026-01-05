@@ -1,0 +1,4 @@
+Part9:
+I viewed the complete directory structure, including the contents of the archive subdirectory using "ls -R"
+command.
+ 

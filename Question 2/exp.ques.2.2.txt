@@ -1,0 +1,3 @@
+Part2:
+ I navigated into the new directory using cd (change directory) and then created the
+ plan.txt file using the touch command.

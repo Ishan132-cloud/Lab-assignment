@@ -1,0 +1,2 @@
+Part5:
+I used the "cp" command to create a duplicate of the plan.txt file.

@@ -1,0 +1,3 @@
+Part 3:
+I used the "echo" command for adding the text "Remind me to complete the lab graded assigment of this
+week" to plan.txt. Then I used "cat" command to show the text has been added to plan.txt.

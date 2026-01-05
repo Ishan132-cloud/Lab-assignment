@@ -1,0 +1,5 @@
+Part8:
+ I moved the plan_copy.txt file into the archive directory using the "mv" command. Then using "cd" changed
+ the directory to archive, then used ls to check if the file has been successfully tranferred.
+ I then went back using "cd .." and checked if the file had been moved from the first directory to the
+ subdirectory.

@@ -1,0 +1,3 @@
+Part 1:
+I used the command "mkdir" to create a documents directory in my home directory by titdle"~" as a shortcut
+for home directory. I used ls command to show that the directory has been created.
